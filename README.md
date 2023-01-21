@@ -7,10 +7,6 @@
 - Java에 대해 설명해 보시겠어요?<br>
 `답변` <a href="https://github.com/kdmgo/backend-script/blob/main/Java/Java%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%84%A4%EB%AA%85.md">Java에 대한 설명</a>
 
-- Java의 장점은 무엇일까요?
-
-- Java의 단점은 무엇일까요?
-
 - JRE에 대해 설명해 보시겠어요?
 
 - JDK에 대해 설명해 보시겠어요?
