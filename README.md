@@ -10,11 +10,10 @@
 - JRE에 대해 설명해 보시겠어요?<br>
 `답변` <a href="https://github.com/kdmgo/backend-script/blob/main/Java/JRE%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C.md">JRE에 대한 설명</a>
 
-- JDK에 대해 설명해 보시겠어요?
+- JVM의 RDA에 대해 설명해 보시겠어요?<br>
+`답변` <a href="https://github.com/kdmgo/backend-script/blob/main/Java/Runtime%20Data%20Area%EC%97%90%20%EB%8C%80%ED%95%B4.md">RDA에 대한 설명</a>
 
 - Java SE에 대해 설명해 보시겠어요?
-
-- JVM에 대해 설명해 보시겠어요?
 
 - Java Comfile 과정에 대해 설명해 보세요.
 
