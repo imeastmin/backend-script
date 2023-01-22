@@ -30,7 +30,7 @@
 - SpringBoot에 대해 설명해 주세요.
 
 - Maven과 Gradle에 대해 설명해 주세요.<br>
- `답변` <a href="">Maven과 Gradle에 대한 설명</a>
+ `답변` <a href="https://github.com/kdmgo/backend-script/blob/main/Spring/Maven%2C%20Gradle%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%84%A4%EB%AA%85.md">Maven과 Gradle에 대한 설명</a>
  
 <br>
 
